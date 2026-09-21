@@ -1,0 +1,51 @@
+project_id,client_id,project_name,service,start_date,planned_end_date,actual_end_date,budget,actual_cost,status,team_size,profit,budget_variance,budget_overrun_flag,delay_days,delay_status,profit_margin,quality_score,client_satisfaction,issues_count,rework_hours,project_performance_category
+P0001,C039,"AI, ML & DevOps Project 001","AI, ML & DevOps",01-12-2025,02-03-2026,08-03-2026,105856.48,108183.71,Completed,4,-2327.23,-2327.23,1,6,Delayed,-2.2,92,91,1,26,Excellent
+P0002,C015,Development Project 002,Development,20-01-2026,15-03-2026,24-03-2026,69566.9,74810.85,Completed,1,-5243.95,-5243.95,1,9,Delayed,-7.54,93,80,0,7,Excellent
+P0003,C033,Digital Marketing Project 003,Digital Marketing,06-01-2026,28-02-2026,28-02-2026,34587.4,31988.17,Completed,1,2599.23,2599.23,0,0,On Time,7.51,90,88,1,17,Excellent
+P0004,C013,Development Project 004,Development,29-01-2026,01-05-2026,11-05-2026,64550.85,68472.39,Completed,3,-3921.54,-3921.54,1,10,Delayed,-6.08,93,83,0,1,Excellent
+P0005,C019,Staff Augmentation Project 005,Staff Augmentation,21-12-2025,22-02-2026,22-02-2026,45886.3,45536.82,Completed,2,349.48,349.48,0,0,On Time,0.76,96,94,0,8,Excellent
+P0006,C015,Data Science Project 006,Data Science,01-08-2025,06-11-2025,13-11-2025,66013.71,72548.16,Completed,1,-6534.45,-6534.45,1,7,Delayed,-9.9,91,79,0,1,Excellent
+P0007,C043,Digital Marketing Project 007,Digital Marketing,18-12-2025,31-03-2026,05-04-2026,34799.29,35712.01,Completed,1,-912.72,-912.72,1,5,Delayed,-2.62,83,84,2,32,Good
+P0008,C029,Staff Augmentation Project 008,Staff Augmentation,19-12-2025,15-02-2026,22-02-2026,44123.73,46389.78,Completed,3,-2266.05,-2266.05,1,7,Delayed,-5.14,87,85,1,12,Good
+P0009,C033,Staff Augmentation Project 009,Staff Augmentation,10-09-2025,19-11-2025,19-11-2025,63184.45,69217.94,Completed,2,-6033.49,-6033.49,1,0,On Time,-9.55,98,96,1,18,Excellent
+P0010,C043,Data Science Project 010,Data Science,07-08-2025,12-10-2025,12-10-2025,48524.21,48937.28,Completed,1,-413.07,-413.07,1,0,On Time,-0.85,98,88,0,13,Excellent
+P0011,C039,Development Project 011,Development,21-08-2025,15-12-2025,15-12-2025,71853.28,67451.51,Completed,3,4401.77,4401.77,0,0,On Time,6.13,88,80,2,33,Good
+P0012,C038,"AI, ML & DevOps Project 012","AI, ML & DevOps",25-11-2025,22-03-2026,23-03-2026,113002.36,123725.16,Completed,2,-10722.8,-10722.8,1,1,Delayed,-9.49,93,81,0,1,Excellent
+P0013,C033,Cyber Security Project 013,Cyber Security,31-08-2025,01-11-2025,02-11-2025,66588.08,68186.92,Completed,1,-1598.84,-1598.84,1,1,Delayed,-2.4,85,81,2,25,Good
+P0014,C032,Digital Marketing Project 014,Digital Marketing,25-08-2025,06-12-2025,06-12-2025,33697.13,31651.44,Completed,2,2045.69,2045.69,0,0,On Time,6.07,84,80,2,24,Good
+P0015,C028,Development Project 015,Development,25-12-2025,19-02-2026,01-03-2026,73476.96,68315.54,Completed,1,5161.42,5161.42,0,10,Delayed,7.02,94,89,2,22,Excellent
+P0016,C039,Development Project 016,Development,10-08-2025,13-10-2025,18-10-2025,72716.97,66864.93,Completed,3,5852.04,5852.04,0,5,Delayed,8.05,84,83,2,25,Good
+P0017,C030,Development Project 017,Development,01-08-2025,05-11-2025,13-11-2025,63229.11,60399.34,Completed,1,2829.77,2829.77,0,8,Delayed,4.48,89,84,1,13,Good
+P0018,C040,"AI, ML & DevOps Project 018","AI, ML & DevOps",27-10-2025,29-12-2025,02-01-2026,107466.49,103385.45,Completed,2,4081.04,4081.04,0,4,Delayed,3.8,88,84,0,6,Good
+P0019,C011,Multicloud Project 019,Multicloud,24-12-2025,04-03-2026,04-03-2026,90660.94,87595.09,Completed,4,3065.85,3065.85,0,0,On Time,3.38,98,93,1,12,Excellent
+P0020,C029,Development Project 020,Development,17-12-2025,07-04-2026,07-04-2026,81649.06,84142.21,Completed,3,-2493.15,-2493.15,1,0,On Time,-3.05,95,88,0,1,Excellent
+P0021,C007,Digital Marketing Project 021,Digital Marketing,31-12-2025,04-02-2026,04-02-2026,37036.96,33687.2,Completed,1,3349.76,3349.76,0,0,On Time,9.04,90,91,2,14,Excellent
+P0022,C043,"AI, ML & DevOps Project 022","AI, ML & DevOps",04-02-2026,03-05-2026,08-05-2026,89178.37,83059.31,Completed,1,6119.06,6119.06,0,5,Delayed,6.86,83,83,2,28,Good
+P0023,C003,Data Science Project 023,Data Science,12-01-2026,17-03-2026,18-03-2026,68247.17,63093.01,Completed,2,5154.16,5154.16,0,1,Delayed,7.55,90,85,2,35,Excellent
+P0024,C033,Development Project 024,Development,16-11-2025,19-01-2026,25-01-2026,76109.43,76332.81,Completed,1,-223.38,-223.38,1,6,Delayed,-0.29,91,89,0,1,Excellent
+P0025,C017,Remote Infrastructure Project 025,Remote Infrastructure,05-09-2025,16-12-2025,21-12-2025,73383.09,78435.87,Completed,1,-5052.78,-5052.78,1,5,Delayed,-6.89,98,92,0,7,Excellent
+P0026,C042,Cyber Security Project 026,Cyber Security,29-09-2025,24-11-2025,25-11-2025,75935.46,80613.71,Completed,1,-4678.25,-4678.25,1,1,Delayed,-6.16,96,94,0,2,Excellent
+P0027,C005,Data Science Project 027,Data Science,28-11-2025,24-02-2026,24-02-2026,56106.3,49533.23,Completed,4,6573.07,6573.07,0,0,On Time,11.72,85,79,2,33,Good
+P0028,C022,Cyber Security Project 028,Cyber Security,01-01-2026,25-03-2026,25-03-2026,78653.58,72883.82,Completed,2,5769.76,5769.76,0,0,On Time,7.34,94,93,1,8,Excellent
+P0029,C029,Blockchain Development Project 029,Blockchain Development,06-12-2025,03-02-2026,09-02-2026,50931.3,52550.04,Completed,3,-1618.74,-1618.74,1,6,Delayed,-3.18,81,69,2,32,Good
+P0030,C024,Development Project 030,Development,30-01-2026,25-04-2026,29-04-2026,53069.19,57940.33,Completed,2,-4871.14,-4871.14,1,4,Delayed,-9.18,79,81,1,6,Good
+P0031,C025,"AI, ML & DevOps Project 031","AI, ML & DevOps",04-11-2025,22-01-2026,29-01-2026,108500.31,109027.44,Completed,5,-527.13,-527.13,1,7,Delayed,-0.49,83,84,2,17,Good
+P0032,C012,Remote Infrastructure Project 032,Remote Infrastructure,12-02-2026,06-04-2026,16-04-2026,54379.4,58189.16,Completed,2,-3809.76,-3809.76,1,10,Delayed,-7.01,91,85,1,19,Excellent
+P0033,C038,Multicloud Project 033,Multicloud,23-08-2025,26-10-2025,10-11-2025,82850.71,76388.25,Completed,4,6462.46,6462.46,0,15,Delayed,7.8,89,74,2,22,Good
+P0034,C013,Digital Marketing Project 034,Digital Marketing,28-01-2026,13-04-2026,20-04-2026,36817.21,35958.68,Completed,1,858.53,858.53,0,7,Delayed,2.33,91,87,2,41,Excellent
+P0035,C028,Development Project 035,Development,21-08-2025,24-11-2025,24-11-2025,77443.61,71937.02,Completed,2,5506.59,5506.59,0,0,On Time,7.11,82,85,0,1,Good
+P0036,C016,Staff Augmentation Project 036,Staff Augmentation,07-01-2026,31-03-2026,,46629.62,17192.59,Ongoing,1,29437.03,29437.03,0,,In Progress,63.13,88,86,2,15,Good
+P0037,C034,Digital Marketing Project 037,Digital Marketing,28-01-2026,20-03-2026,,39238.19,15097.9,On Hold,2,24140.29,24140.29,0,,On Hold,61.52,92,81,0,1,Excellent
+P0038,C020,Data Science Project 038,Data Science,23-08-2025,04-10-2025,,61085.79,12885.16,Ongoing,5,48200.63,48200.63,0,,In Progress,78.91,89,90,1,19,Good
+P0039,C039,Staff Augmentation Project 039,Staff Augmentation,04-11-2025,06-12-2025,,46063.19,13041.14,Ongoing,2,33022.05,33022.05,0,,In Progress,71.69,90,86,1,18,Excellent
+P0040,C014,Staff Augmentation Project 040,Staff Augmentation,09-09-2025,24-12-2025,,57432.09,13798.8,Ongoing,4,43633.29,43633.29,0,,In Progress,75.97,84,76,3,41,Good
+P0041,C010,Development Project 041,Development,03-09-2025,12-11-2025,,68372.77,23707.95,Ongoing,1,44664.82,44664.82,0,,In Progress,65.33,91,83,1,9,Excellent
+P0042,C029,Development Project 042,Development,09-01-2026,31-03-2026,,55167.38,28758.35,Ongoing,3,26409.03,26409.03,0,,In Progress,47.87,92,82,1,21,Excellent
+P0043,C020,Digital Marketing Project 043,Digital Marketing,14-09-2025,25-10-2025,,41962.3,24665.86,Ongoing,4,17296.44,17296.44,0,,In Progress,41.22,96,96,2,17,Excellent
+P0044,C030,Development Project 044,Development,17-12-2025,08-02-2026,,65315.53,33618.19,Ongoing,3,31697.34,31697.34,0,,In Progress,48.53,91,88,1,13,Excellent
+P0045,C037,"AI, ML & DevOps Project 045","AI, ML & DevOps",27-11-2025,04-02-2026,,86237.74,39482.64,Ongoing,1,46755.1,46755.1,0,,In Progress,54.22,79,79,3,43,Good
+P0046,C042,Blockchain Development Project 046,Blockchain Development,15-01-2026,23-02-2026,,56575.55,29962.45,Ongoing,3,26613.1,26613.1,0,,In Progress,47.04,85,80,1,2,Good
+P0047,C023,Development Project 047,Development,05-09-2025,31-10-2025,,81456.92,42177.01,Ongoing,2,39279.91,39279.91,0,,In Progress,48.22,98,97,1,16,Excellent
+P0048,C023,Remote Infrastructure Project 048,Remote Infrastructure,30-09-2025,19-01-2026,,73251.66,43156.01,Ongoing,2,30095.65,30095.65,0,,In Progress,41.09,92,86,1,26,Excellent
+P0049,C006,"AI, ML & DevOps Project 049","AI, ML & DevOps",28-12-2025,09-03-2026,,95334.8,46565.66,Ongoing,4,48769.14,48769.14,0,,In Progress,51.16,79,72,2,30,Good
+P0050,C023,Development Project 050,Development,17-09-2025,13-12-2025,,59257.77,15638.35,On Hold,2,43619.42,43619.42,0,,On Hold,73.61,88,81,3,47,Good

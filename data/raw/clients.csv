@@ -1,0 +1,46 @@
+client_id,client_name,industry,country,client_type,start_date
+C001,Apex Technologies 01,BFSI,UAE,Mid-Market,2025-08-11
+C002,Nova Solutions 02,Healthcare,India,SME,2025-12-27
+C003,Vertex Systems 03,Education,India,Mid-Market,2025-11-06
+C004,BluePeak Digital 04,Retail & E-commerce,India,Enterprise,2025-08-26
+C005,Horizon Industries 05,Manufacturing,India,Mid-Market,2025-10-15
+C006,Summit Group 06,Logistics & Supply Chain,India,Mid-Market,2026-01-01
+C007,Prime Services 07,IT & Technology,India,SME,2025-09-15
+C008,NexGen Labs 08,Professional Services,India,Mid-Market,2025-09-17
+C009,Orion Enterprises 09,Telecom,India,SME,2025-10-18
+C010,Crest Technologies 10,Real Estate,India,SME,2025-11-17
+C011,Pioneer Solutions 11,Travel & Hospitality,India,Enterprise,2025-09-28
+C012,Evergreen Systems 12,Energy & Utilities,UK,Mid-Market,2025-09-26
+C013,Zenith Digital 13,Media & Entertainment,India,SME,2025-11-23
+C014,Atlas Industries 14,Automotive,UK,Enterprise,2025-08-03
+C015,Vantage Group 15,Pharmaceuticals,Saudi Arabia,SME,2026-01-06
+C016,Apex Services 16,BFSI,UAE,SME,2025-10-16
+C017,Nova Labs 17,Healthcare,India,SME,2025-12-28
+C018,Vertex Enterprises 18,Education,India,Mid-Market,2025-08-23
+C019,BluePeak Technologies 19,Retail & E-commerce,India,SME,2025-11-20
+C020,Horizon Solutions 20,Manufacturing,India,Enterprise,2025-09-03
+C021,Summit Systems 21,Logistics & Supply Chain,India,SME,2025-11-29
+C022,Prime Digital 22,IT & Technology,India,SME,2025-11-25
+C023,NexGen Industries 23,Professional Services,UK,SME,2026-01-22
+C024,Orion Group 24,Telecom,India,SME,2025-08-24
+C025,Crest Services 25,Real Estate,UAE,Enterprise,2025-09-09
+C026,Pioneer Labs 26,Travel & Hospitality,India,SME,2025-09-05
+C027,Evergreen Enterprises 27,Energy & Utilities,Germany,Mid-Market,2025-08-03
+C028,Zenith Technologies 28,Media & Entertainment,India,SME,2025-08-15
+C029,Atlas Solutions 29,Automotive,India,Mid-Market,2025-09-16
+C030,Vantage Systems 30,Pharmaceuticals,India,SME,2025-09-15
+C031,Apex Digital 31,BFSI,UAE,SME,2025-12-22
+C032,Nova Industries 32,Healthcare,India,Mid-Market,2025-11-26
+C033,Vertex Group 33,Education,South Africa,SME,2025-12-15
+C034,BluePeak Services 34,Retail & E-commerce,India,SME,2025-08-10
+C035,Horizon Labs 35,Manufacturing,India,Mid-Market,2026-01-02
+C036,Summit Enterprises 36,Logistics & Supply Chain,India,SME,2025-10-23
+C037,Prime Technologies 37,IT & Technology,India,SME,2025-12-24
+C038,NexGen Solutions 38,Professional Services,UAE,Mid-Market,2025-10-22
+C039,Orion Systems 39,Telecom,India,Mid-Market,2025-10-12
+C040,Crest Digital 40,Real Estate,India,SME,2025-09-24
+C041,Pioneer Industries 41,Travel & Hospitality,India,SME,2025-12-20
+C042,Evergreen Group 42,Energy & Utilities,India,SME,2026-01-15
+C043,Zenith Services 43,Media & Entertainment,India,SME,2025-12-23
+C044,Atlas Labs 44,Automotive,Saudi Arabia,SME,2025-08-26
+C045,Vantage Enterprises 45,Pharmaceuticals,India,Mid-Market,2025-12-17
