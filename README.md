@@ -4,9 +4,6 @@
 
 An end-to-end data analytics project for a **fictional IT services company**, demonstrating the complete journey from raw business data to actionable business insights using **Python, Pandas, PostgreSQL, SQL, and statistical analysis**.
 
-> ⚠️ **Data Disclaimer**
-> This project uses completely fictional and synthetic data created for educational and portfolio purposes. No real company, client, employee, or financial information is used.
-
 ---
 
 ## 🚀 Project Overview
