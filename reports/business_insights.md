@@ -10,6 +10,7 @@ Budget awareness also needs attention. 36.0% of the 50 projects exceed the budge
 ## Observation
 - Revenue is led by AI, ML & DevOps, which generated 395080.22 in the sample finance dataset.
 - Profit is led by AI, ML & DevOps, which generated 105785.32 in profit contribution.
+- Secondary best service according to the use case are AWS, CLOUD.
 - Delivery pressure is highest in Remote Infrastructure, where the average project delay is 7.5 days.
 - Budget overruns are present in 18 of 50 projects, or 36.0% of the portfolio.
 - The main clients by revenue are Orion Systems 39: 296489.92, Vertex Group 33: 240469.36, Atlas Solutions 29: 231871.47, NexGen Industries 23: 213966.35, NexGen Solutions 38: 195853.07.
