@@ -1,6 +1,6 @@
 # Business Insights
 
-This synthetic report describes a fictional IT services operation and its portfolio of client, delivery, quality, team, and finance activity.
+This synthetic report describes a Real Time IT services operation and its portfolio of client, delivery, quality, team, and finance activity.
 
 ## Executive Summary
 Across the generated dataset, AI, ML & DevOps is the strongest revenue service, producing 395080.22 in revenue. AI, ML & DevOps is the most profitable service by profit contribution, creating 105785.32 in synthetic profit.
