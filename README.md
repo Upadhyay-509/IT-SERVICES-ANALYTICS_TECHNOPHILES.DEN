@@ -2,7 +2,7 @@
 
 ### End-to-End Data Analytics Project | Technophiles DEN
 
-An end-to-end data analytics project for a **fictional IT services company**, demonstrating the complete journey from raw business data to actionable business insights using **Python, Pandas, PostgreSQL, SQL, and statistical analysis**.
+An end-to-end data analytics project , demonstrating the complete journey from raw business data to actionable business insights using **Python, Pandas, PostgreSQL, SQL, and statistical analysis**.
 
 ---
 
@@ -95,7 +95,7 @@ The project uses multiple **synthetic business datasets** representing different
 
 | Dataset              | Records | Description                                |
 | -------------------- | ------: | ------------------------------------------ |
-| **Clients**          |      45 | Fictional client information               |
+| **Clients**          |      45 | client information                         |
 | **Projects**         |      50 | Project delivery and financial information |
 | **Team Performance** |      50 | Team productivity and utilization          |
 | **Project Quality**  |      50 | Quality and client satisfaction metrics    |
